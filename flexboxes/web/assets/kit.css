@@ -1,0 +1,2 @@
+:root { --cream: #FFF8F0; --ink: #3A2A20; --go: linear-gradient(90deg, #E9A16B, #E77FA0); }
+.go { background: var(--go); color: #fff; border-radius: 999px; padding: 14px; }

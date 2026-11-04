@@ -1,0 +1,6 @@
+{
+  "name": "aww-honey",
+  "private": true,
+  "scripts": { "dev": "nuxt dev", "build": "nuxt build" },
+  "dependencies": { "nuxt": "^4.4.0", "@neondatabase/serverless": "^1.0.0" }
+}

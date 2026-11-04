@@ -1,5 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
+  "framework": "nuxtjs",
   "ignoreCommand": "p=$VERCEL_GIT_PREVIOUS_SHA;[ -n \"$p\" ]&&[ \"$p\" != \"$VERCEL_GIT_COMMIT_SHA\" ]||exit 1;git cat-file -e \"$p^{commit}\" 2>/dev/null||p=$(git rev-list HEAD|tail -1);git diff --quiet \"$p\" HEAD -- . ':!.flexos'||exit 1"
 }
