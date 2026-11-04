@@ -8,7 +8,8 @@ related: [.flexos/docs/02-brand/01-overview.md, flexboxes/web/assets/kit.css]
 
 # Design
 
-Cream background, Georgia for headings, the peach→pink gradient for every main button.
+Web rules on top of the Library's design system (`docs/02-brand/03-design-system/`): cream background, Georgia for
+headings, the peach→pink gradient for every main button.
 
 ## Every screen, as drawn
 Honey's round gradient face top left with her line in a white bubble beside it; a Georgia heading; rounded white

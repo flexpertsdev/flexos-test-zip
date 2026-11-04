@@ -4,7 +4,7 @@ details: /pricing, drawn, not built
 type: page
 status: active
 path: /pricing
-related: [.flexos/docs/01-project/03-pricing.md, .flexos/spaces/20261102-pricing-page/]
+related: [.flexos/docs/01-project/04-prices.md, .flexos/spaces/20261102-pricing-page/]
 ---
 
 # Pricing

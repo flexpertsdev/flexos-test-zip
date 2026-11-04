@@ -3,7 +3,7 @@ name: Brand
 details: Who Honey is, how she looks and sounds
 type: doc
 status: active
-related: [.flexos/docs/02-brand/02-honeys-voice.md, .flexos/apps/web/brief/01-design/]
+related: [.flexos/docs/02-brand/02-style-guide.md, .flexos/apps/web/brief/01-design/]
 ---
 
 # Brand
@@ -20,4 +20,4 @@ Sophia Petrillo meets a qualified therapist.
 Warm, quick, honest; see Honey's voice.
 
 ## Pictures
-`logo.png` is a stand-in (a gradient with "aww honey" written on it). There is no real logo yet.
+The colours and type in full: `03-design-system/`. There is no real logo yet; `04-logo/` holds the stand-in the zip brought.

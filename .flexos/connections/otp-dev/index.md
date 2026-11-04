@@ -4,7 +4,7 @@ details: Phone checks by SMS; planned, not used
 type: connection
 status: active
 keys: []
-related: [.flexos/apps/web/brief/02-pages/02-sign-up/, .flexos/spaces/20261104-bringing-in-aww-honey/03-real-sign-up/]
+related: [.flexos/apps/web/brief/02-pages/02-sign-up/, .flexos/spaces/20261104-whats-broken/04-sign-up-is-not-sign-in/]
 ---
 
 # How we use it

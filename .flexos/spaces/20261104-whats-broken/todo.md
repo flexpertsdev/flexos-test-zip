@@ -1,0 +1,7 @@
+- [ ] A home at /
+- [ ] The six drawn pages
+- [ ] Sign-up with its database key
+- [ ] Sign-up that signs people in
+- [ ] The kit's look on every page
+- [ ] Honey herself
+- [ ] Otp.dev: keep or drop

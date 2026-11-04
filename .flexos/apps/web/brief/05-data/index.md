@@ -1,6 +1,6 @@
 ---
 name: Data
-details: What the website keeps: planned users, chats, memories; today only an email
+details: What the website keeps: users, chats, memories planned; one email written today
 type: doc
 status: active
 related: [.flexos/connections/neon/, .flexos/apps/web/brief/06-connections/neon.md]
@@ -8,12 +8,10 @@ related: [.flexos/connections/neon/, .flexos/apps/web/brief/06-connections/neon.
 
 # Data
 
-All of it in Neon (a Postgres database).
+Everything in Neon (a Postgres database). One file a table; nothing in the code makes the tables.
 
-| Table | Fields | In the code today |
+| Table | One row is | In the code today |
 |---|---|---|
-| users | email, name, plan | Sign up writes `email` only. Nothing makes the table; whether it exists in the database is not known from here. |
-| chats | who, when, words | Not used. |
-| memories | what Honey keeps | Not used, not made (Neon's to-do). |
-
-No password, name or plan is kept anywhere.
+| users | a person who signed up | sign-up writes `email` only |
+| chats | a message to or from Honey | not used |
+| memories | a thing Honey keeps about you | not used, not made |

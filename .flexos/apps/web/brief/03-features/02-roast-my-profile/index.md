@@ -3,7 +3,7 @@ name: Roast my profile
 details: The hook: paste a dating profile, Honey roasts it; not built
 type: feature
 status: active
-related: [.flexos/apps/web/brief/02-pages/07-roast/, .flexos/apps/web/brief/04-flows/02-roast/, .flexos/spaces/20261104-bringing-in-aww-honey/02-roast-my-profile/]
+related: [.flexos/apps/web/brief/02-pages/07-roast/, .flexos/apps/web/brief/04-flows/02-roast/, .flexos/spaces/20261104-whats-broken/02-six-pages-not-built/]
 ---
 
 # Roast my profile

@@ -3,7 +3,7 @@ name: Sign up with email
 details: Built, and broken: keeps the email, throws the password away
 type: feature
 status: active
-related: [.flexos/apps/web/brief/02-pages/02-sign-up/, .flexos/connections/neon/, .flexos/spaces/20261104-bringing-in-aww-honey/01-what-is-broken/]
+related: [.flexos/apps/web/brief/02-pages/02-sign-up/, .flexos/connections/neon/, .flexos/spaces/20261104-whats-broken/]
 ---
 
 # Sign up with email

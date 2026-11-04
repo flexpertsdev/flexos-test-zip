@@ -1,0 +1,5 @@
+- [ ] The Roast (`/roast`), from its drawing
+- [ ] The four-screen onboarding, redrawn (space *Rework onboarding*), then built
+- [ ] Sign in with Google
+- [ ] Honey's chat and her memory
+- [ ] Pricing, once Premium is written

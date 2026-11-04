@@ -3,7 +3,7 @@ name: Technical
 details: How the website is built and hosted, and what is broken and why
 type: doc
 status: active
-related: [flexboxes/web/, .flexos/spaces/20261104-bringing-in-aww-honey/01-what-is-broken/]
+related: [flexboxes/web/, .flexos/spaces/20261104-whats-broken/]
 ---
 
 # Technical
@@ -18,7 +18,7 @@ related: [flexboxes/web/, .flexos/spaces/20261104-bringing-in-aww-honey/01-what-
   `.flexos/` changed.
 - **Run it:** in `flexboxes/web/`, `npm install`, then `npm run dev`. No lock file, so versions float.
 
-## What is broken, and why (checked live, 4 November 2026)
+## What is broken, and why (checked live, 4 November 2026; each one a topic in *What's broken*)
 1. **The home says 404.** There is no `pages/index.vue`; nothing answers at `/`.
 2. **Every page but Sign up says 404**, `/roast` included: only `pages/signup.vue` exists.
 3. **Sign up fails.** *Come in* gets a 500: `NEON_DATABASE_URL` is not set on this site ("Wrong URL scheme or missing

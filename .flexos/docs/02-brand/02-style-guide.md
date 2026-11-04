@@ -1,5 +1,5 @@
 ---
-name: Honey's voice
+name: Style guide: Honey's voice
 details: How she talks
 type: doc
 status: active

@@ -3,7 +3,7 @@ name: Fact sheet
 details: Facts, addresses, what it is built with
 type: doc
 status: active
-related: [.flexos/docs/01-project/03-pricing.md, .flexos/apps/web/brief/07-technical/]
+related: [.flexos/docs/01-project/04-prices.md, .flexos/apps/web/brief/07-technical/]
 ---
 
 # Fact sheet

@@ -3,7 +3,7 @@ name: Pricing page
 details: Pro at $9.99
 type: space
 status: active
-related: [.flexos/apps/web/brief/02-pages/08-pricing/, .flexos/docs/01-project/03-pricing.md]
+related: [.flexos/apps/web/brief/02-pages/08-pricing/, .flexos/docs/01-project/04-prices.md]
 ---
 
 ## What this is

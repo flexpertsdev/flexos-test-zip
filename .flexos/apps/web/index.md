@@ -1,7 +1,7 @@
 ---
 name: Website
 details: Honey on the web: the chat, the roast, sign-up. Live; only sign-up is built
-type: doc
+type: app
 status: active
 related: [flexboxes/web/, .flexos/spaces/20261104-rework-onboarding/, .flexos/spaces/20261104-bringing-in-aww-honey/]
 ---
@@ -15,4 +15,5 @@ The web app: Honey's chat, the roast, your notes. Its code is `flexboxes/web/`; 
 - **Drawn, not built:** Welcome, Your name, What brings you here, Meet Honey, First chat, Roast, Pricing.
 - **Nothing at the home (`/`):** it says 404, as do `/roast` and every other drawn page.
 - **Onboarding** is being cut from six screens to four (space *Rework onboarding*).
-- What is broken and why: `brief/07-technical/`.
+- What is broken and why: `brief/07-technical/` and the space *What's broken*. What is asked and not built: `todo.md`.
+- Builds: `builds/`.

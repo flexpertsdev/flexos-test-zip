@@ -3,7 +3,7 @@ name: Tone of the welcome
 details: Warmer, less clinical
 type: topic
 status: active
-related: [.flexos/apps/web/brief/02-pages/01-welcome/, .flexos/apps/web/brief/02-pages/02-sign-up/, .flexos/docs/02-brand/02-honeys-voice.md]
+related: [.flexos/apps/web/brief/02-pages/01-welcome/, .flexos/apps/web/brief/02-pages/02-sign-up/, .flexos/docs/02-brand/02-style-guide.md]
 ---
 
 ## What this is
