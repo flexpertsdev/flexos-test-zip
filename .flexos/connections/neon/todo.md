@@ -1,0 +1,4 @@
+- [x] Sign up
+- [x] Add NEON_DATABASE_URL to the Vault (for the original project)
+- [ ] Put NEON_DATABASE_URL on this site (aww-honey-test)
+- [ ] Make the users, chats and memories tables

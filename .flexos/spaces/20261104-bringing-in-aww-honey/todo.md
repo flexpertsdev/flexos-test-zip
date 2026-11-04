@@ -1,0 +1,5 @@
+- [x] Put the site in the website box
+- [x] Live on its address, every page checked
+- [x] Its notes moved into place, true to the code
+- [x] What works, what is broken, what first
+- [ ] The person picks what first

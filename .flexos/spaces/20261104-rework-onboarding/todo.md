@@ -1,0 +1,3 @@
+- [x] Sign up warmer
+- [ ] Cut to four screens
+- [ ] Try it on a phone

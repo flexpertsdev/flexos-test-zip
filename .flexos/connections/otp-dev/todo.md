@@ -1,0 +1,2 @@
+- [ ] Decide whether sign-up needs a phone check
+- [ ] Sign up and name its key

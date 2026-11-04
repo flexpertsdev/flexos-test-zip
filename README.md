@@ -13,8 +13,8 @@ Two tests of the FlexOS folder system, run in Claude Code with this repo as the 
 ## Where it is live
 
 - **Website** (`flexboxes/web/`): Vercel project `aww-honey-test` (team flexos-projects) at
-  https://aww-honey-test.flexos.site, built on every push to `claude/great-turing-gkl694`. A holding page until the
-  import puts real code there.
+  https://aww-honey-test.flexos.site, built on every push to `main`. Aww Honey's site since the
+  import of 4 November 2026.
 - **Website v2** (`flexboxes/web-v2/`, only if one is started): `aww-honey-test-v2` at
   https://aww-honey-test-v2.flexos.site.
 

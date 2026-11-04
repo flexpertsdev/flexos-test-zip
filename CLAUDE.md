@@ -45,8 +45,8 @@ A push builds it; nothing else does.
 
 | Box | Vercel project | Address | Built from |
 |---|---|---|---|
-| `flexboxes/web/` | `aww-honey-test` | https://aww-honey-test.flexos.site | the branch `claude/great-turing-gkl694` |
-| `flexboxes/web-v2/` | `aww-honey-test-v2` (made when v2 starts) | https://aww-honey-test-v2.flexos.site | the same branch |
+| `flexboxes/web/` | `aww-honey-test` | https://aww-honey-test.flexos.site | `main` |
+| `flexboxes/web-v2/` | `aww-honey-test-v2` (made when v2 starts) | https://aww-honey-test-v2.flexos.site | `main` |
 
 Until real code arrives, `flexboxes/web/` holds a holding page (`index.html`, marked `flexos-holding`). Each box's
 `vercel.json` names its framework (`null` for plain files) and carries the ignore guard, so a push that only touches
@@ -140,7 +140,7 @@ built, the brief kept true as the code changes.
   (its `index.md` renamed *Website v2* and naming its box: the one time a thing is in two places, on purpose, because
   they will differ); `flexboxes/web-v2/` begins with a holding page and its `vercel.json`; its Vercel project and
   address are in *Where the website lives* (Vercel MCP: project `aww-honey-test-v2` in flexos-projects, repo
-  `flexpertsdev/flexos-test-zip`, root `flexboxes/web-v2`, no Vercel login on it, the address on the branch). Making
+  `flexpertsdev/flexos-test-zip`, root `flexboxes/web-v2`, no Vercel login on it, the address on `main`). Making
   v2 the live one is the person's call: say what would move and what would stop.
 
 ## What good looks like
